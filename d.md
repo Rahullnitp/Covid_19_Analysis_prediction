@@ -33,7 +33,7 @@ This dataset is updated on daily basis by Johns Hopkins CSSE
 -  Hospitalization and Testing Data
 
 #### Graphing the number of confirmed cases, active cases, deaths, recoveries, mortality rate (CFR), and recovery rate
-![enter image description here](https://github.com/Rahullnitp/Covid_19_Analysis_prediction/blob/master/docker-in-real-life-7-1024.jpg)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMzQzOTI4OV19
+eyJoaXN0b3J5IjpbMTE1NjMwOTc0LDE1MDM0MzkyODldfQ==
 -->
